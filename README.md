@@ -24,6 +24,6 @@ Este repositório contém o projeto desenvolvido durante a Imersão da Alura com
 - Preparação para deploy
 - Configuração do GitHub e publicação do projeto
 
-##Licença
+## Licença
 
 Este projeto é disponibilizado para fins educacionais e de demonstração. Não há licença específica aplicada.
