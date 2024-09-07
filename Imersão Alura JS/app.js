@@ -46,3 +46,10 @@ function buscar() {
         section.innerHTML = resultados;
     }
 }
+
+document.getElementById("campo-pesquisa").addEventListener("keypress", function(event) {
+    if (event.key === "Enter") {  // Verifica se a tecla apertada foi o Enter
+        event.preventDefault();  // Impede o comportamento padrão
+        buscar();  // Chama a função buscar ao pressionar Enter
+    }
+});
