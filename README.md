@@ -16,6 +16,10 @@ Detalhes dos Serviços: Cada serviço possui informações adicionais como uma d
 ### Público-Alvo
 Ideal para músicos, produtores, e qualquer pessoa que esteja procurando serviços de mixagem e masterização para melhorar a qualidade das suas faixas.
 
+## Tecnologias Utilizadas
+
+HTML5, CSS3 e JavaScript
+
 ## Conteúdo da Imersão
 
 ### Aula 01: Iniciando o Projeto com HTML e CSS
